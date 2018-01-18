@@ -21,3 +21,7 @@ int main(){
 	
 	AC.fungsi("untuk menggunakan AC");
 }
+
+void remote::fungsi(string fungsi){
+	cout << "Fungsi Remote TV "<<fungsi<< " !!"<<endl;
+}
